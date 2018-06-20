@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/Logan-Pazol-Bose/RxSwift'
   s.license          = { :type => 'MIT' }
   s.author           = { 'Logan Pazol' => 'logan_pazol@bose.com' }
-  s.source           = { :git => 'https://github.com/Logan-Pazol-Bose/BRx.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Logan-Pazol-Bose/RxSwift.git', :tag => s.version.to_s }
  
   s.ios.deployment_target = '8.0'
   s.osx.deployment_target = '10.9'
